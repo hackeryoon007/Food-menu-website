@@ -1,0 +1,31 @@
+This image shows a web-based food menu UI in Figma, divided into three core vertical artboards:
+
+1. Main Page
+Features two daily specials with star ratings.
+
+Menu preview section with pasta, lasagna, etc.
+
+"Our Story" and "We are ready to serve you" CTA at the bottom.
+
+Acts as the homepage.
+
+2. Wines Page
+Similar hero as the main page for consistency.
+
+Displays wine bottles with prices and high-quality imagery.
+
+Arrows show prototype links between main to wine section and back.
+
+3. Steak Page
+Features juicy steak meals with pricing, star ratings, and variety.
+
+Navigable from either the main page or wine page using prototype arrows.
+
+🛠️ How It Works
+The Main Page acts as the landing page with anchor links to wine and steak pages.
+
+Users interact with "View More" or "Specials" to navigate deeper.
+
+All pages maintain a consistent footer CTA to book or explore.
+
+The prototype flow in Figma allows you to simulate user interaction and transitions.
